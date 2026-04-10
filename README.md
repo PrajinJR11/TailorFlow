@@ -22,4 +22,4 @@ A web-based application to manage tailoring shop operations like customers, meas
 2. Place project in htdocs folder
 3. Import database (.sql file)
 4. Start Apache & MySQL
-5. Open in browser: http://localhost/project-folder
+5. Open in browser: http://localhost/tailoring_new
